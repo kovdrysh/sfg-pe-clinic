@@ -1,4 +1,4 @@
-package sfgpeclinic;
+package guru.springframework.sfgpeclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
